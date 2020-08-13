@@ -5,5 +5,6 @@
 
 ### now simply place your hand in front of camera now remember your left hand if forward and backward or you can say its for accelerate and brake  and right hand is for steering (left and right)   
 
+![alt text](https://github.com/zerocool-11/gesture_controlled_gaming/blob/master/ss.png)
 
 ### for video walkthrough refer this link:
