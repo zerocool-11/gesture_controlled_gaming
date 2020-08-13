@@ -8,3 +8,4 @@
 ![alt text](https://github.com/zerocool-11/gesture_controlled_gaming/blob/master/ss.png)
 
 ### for video walkthrough refer this link:
+https://www.linkedin.com/posts/yash-kumar-16762a190_opencv-gaming-ai-activity-6699621641615491072-b0kF
